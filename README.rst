@@ -18,6 +18,6 @@ Just started this project, so it's gonna take a while.
 ------------------------------------------------------
 
 :Game:                                          Status
-:The Binding of Isaac: Repentance:              W.I.P
+:The Binding of Isaac Rebirth:                  W.I.P
 :Mewgenics:                                     Not Started
 :Buckshot Roulette:                             Not Started
