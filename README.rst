@@ -17,9 +17,13 @@ Just started this project, so it's gonna take a while.
 
 ------------------------------------------------------
 
-:Game:                                          Status
-:The Binding of Isaac Rebirth:                  W.I.P
-:Mewgenics:                                     Not Started
-:Buckshot Roulette:                             Not Started
-:Phasmophobia:                                  Not Started
-:Nubby's Number Factory:                        Not Started
+Supported Games
+^^^^^^^^^^^^^^^
+
++-----------------------------+-------------+-------+
+| Game                        | Tracker Type| Status|
++-----------------------------+-------------+-------+
+| The Binding of Isaac Rebirth| Progression | W.I.P |
++-----------------------------+-------------+-------+
+| Mewgenics                   | Progression | W.I.P |
++-----------------------------+-------------+-------+
