@@ -11,6 +11,8 @@ The Ultimate Video Game Tracker
 :Author:            Max S. <m4x4o@proton.me>
 :License:           MIT https://opensource.org/license/mit
 
+
+
 :Game:                                          Status
 :The Binding of Isaac: Repentance:              W.I.P
 :Mewgenics:                                     Not Started
