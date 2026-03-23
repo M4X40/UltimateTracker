@@ -11,12 +11,11 @@ The Ultimate Video Game Tracker
 :Author:            Max S. <m4x4o@proton.me>
 :License:           MIT https://opensource.org/license/mit
 
-
+NEWS
+^^^^
+Just started this project, so it's gonna take a while.
 
 :Game:                                          Status
 :The Binding of Isaac: Repentance:              W.I.P
 :Mewgenics:                                     Not Started
-
-NEWS
-^^^^
-
+:Buckshot Roulette:                             Not Started
