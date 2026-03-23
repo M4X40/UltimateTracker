@@ -20,12 +20,20 @@ Just started this project, so it's gonna take a while.
 Supported Games
 ^^^^^^^^^^^^^^^
 
-+-----------------------------+--------------+-------------+
-| Game                        | Tracker Type |    Status   |
-+-----------------------------+--------------+-------------+
-| The Binding of Isaac Rebirth| Progression  |    W.I.P    |
-+-----------------------------+--------------+-------------+
-| Mewgenics                   | Progression  |    W.I.P    |
-+-----------------------------+--------------+-------------+
-| Buckshot Roulette           | Notebook     | Not Started |
-+-----------------------------+--------------+-------------+
++------------------------------+--------------+-------------+
+| Game                         | Tracker Type |    Status   |
++------------------------------+--------------+-------------+
+| The Binding of Isaac: Rebirth| Progression  |    W.I.P    |
++------------------------------+--------------+-------------+
+| Mewgenics                    | Progression  | Not Started |
++------------------------------+--------------+-------------+
+| Buckshot Roulette            | Notebook     | Not Started |
++------------------------------+--------------+-------------+
+| Phasmophobia                 | Notebook     | Not Started |
++------------------------------+--------------+-------------+
+| Nubby's Number Factory       | Progression  | Not Started |
++------------------------------+--------------+-------------+
+| Astroneer                    | Progression  | Not Started |
++------------------------------+--------------+-------------+
+| Black Ops 3: Zombies         | Notebook     | Not Started |
++------------------------------+--------------+-------------+
